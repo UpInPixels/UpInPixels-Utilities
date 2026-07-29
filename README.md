@@ -29,7 +29,8 @@ https://UpInPixels.github.io/UpInPixels-Utilities/index.json
 
 | Package | Description | Quick Link |
 | --- | --- | --- |
-| **Remove Zero Weight Bones** | Scans SkinnedMeshRenderers and safely cleans up zero-weight bone hierarchies without altering mesh data. | [Repository](https://github.com/UpInPixels/RemoveZeroWeightBones) |
+| **Remove Zero Weight Bones** | Safely cleans up zero-weight bones in the hierarchie. | [Repository](https://github.com/UpInPixels/RemoveZeroWeightBones) |
+| **Lighting Sliders** | Adds several lighting sliders to all poiyomi materials. | [Repository](https://github.com/UpInPixels/Lighting-Sliders) |
 
 ---
 
@@ -39,7 +40,7 @@ If you prefer installing individual packages via Git URLs in Unity without VCC:
 
 1. In Unity, navigate to **Window > Package Manager**.
 2. Click the **`+`** icon in the top-left corner and select **Add package from git URL...**.
-3. Paste the Git URL for the specific package:
+3. Paste the Git URL for the specific package (for example):
 ```text
 https://github.com/UpInPixels/RemoveZeroWeightBones.git?path=/Packages/com.upinpixels.removezeroweightbones
 
