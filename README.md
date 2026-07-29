@@ -8,7 +8,7 @@ This repository serves as the central **VRChat Companion App (VCC)** package lis
 
 ---
 
-## 📦 How to Add to VRChat Companion App (VCC)
+## How to Add to VRChat Companion App (VCC)
 
 To access and manage all current and future UpInPixels tools directly in your VCC:
 
@@ -25,7 +25,7 @@ https://UpInPixels.github.io/UpInPixels-Utilities/index.json
 
 ---
 
-## 🛠️ Available Packages
+## Available Packages
 
 | Package | Description | Quick Link |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ https://UpInPixels.github.io/UpInPixels-Utilities/index.json
 
 ---
 
-## 🌐 Manual Installation (Unity Package Manager)
+## Manual Installation (Unity Package Manager)
 
 If you prefer installing individual packages via Git URLs in Unity without VCC:
 
@@ -49,7 +49,7 @@ https://github.com/UpInPixels/RemoveZeroWeightBones.git?path=/Packages/com.upinp
 
 ---
 
-## 👤 Author & Links
+## Author & Links
 
 * **Creator:** Uppy ([UpInPixels](https://payhip.com/upinpixels))
 * **Store / Assets:** [Payhip Store](https://payhip.com/upinpixels)
