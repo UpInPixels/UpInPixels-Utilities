@@ -1,0 +1,11 @@
+{
+  "name": "com.upinpixels.removezeroweightbones",
+  "displayName": "Remove Zero Weight Bones",
+  "version": "1.0.0",
+  "description": "Removes zero weight bones from selected armatures.",
+  "author": {
+    "name": "Uppy"
+  },
+  "vpmDependencies": {
+  }
+}
