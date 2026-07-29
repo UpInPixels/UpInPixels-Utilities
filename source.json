@@ -12,7 +12,6 @@
     "text": "View on GitHub"
   },
   "bannerUrl": "banner.png",
-  "githubRepos": [],
   "localPackages": [
     "packages/com.upinpixels.removezeroweightbones"
   ]
