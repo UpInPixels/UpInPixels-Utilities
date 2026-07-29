@@ -13,6 +13,7 @@
   },
   "bannerUrl": "banner.png",
   "githubRepos": [
-    "UpInPixels/RemoveZeroWeightBones"
+    "UpInPixels/RemoveZeroWeightBones",
+    "UpInPixels/Lighting-Sliders"
   ]
 }
