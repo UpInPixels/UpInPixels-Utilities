@@ -1,19 +1,19 @@
 {
-    "name":"UpInPixels-Utilities",
-    "id":"com.UpInPixels.UpInPixels-Utilities",
-    "url":"https://UpInPixels.github.io/UpInPixels-Utilities/index.json",
-    "author":{
-        "name":"Uppy",
-        "url":"https://payhip.com/upinpixels"
-    },
-    "description":"Utility scripts to make unity suck less",
-    "infoLink":{
-        "url":"http://github.com/UpInPixels/UpInPixels-Utilities",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-    ],
-    "packages":[
-    ]
+  "name": "UpInPixels Utilities",
+  "id": "com.UpInPixels.UpInPixels-Utilities",
+  "url": "https://UpInPixels.github.io/UpInPixels-Utilities/index.json",
+  "author": {
+    "name": "Uppy",
+    "url": "https://payhip.com/upinpixels"
+  },
+  "description": "Utility scripts to make unity suck less",
+  "infoLink": {
+    "url": "https://github.com/UpInPixels/UpInPixels-Utilities",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [],
+  "localPackages": [
+    "packages/com.upinpixels.removezeroweightbones"
+  ]
 }
