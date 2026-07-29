@@ -12,7 +12,7 @@ This repository serves as the central **VRChat Companion App (VCC)** package lis
 
 To access and manage all current and future UpInPixels tools directly in your VCC:
 
-[![Add to VCC](https://img.shields.io/badge/VCC-Add%20to%20VCC-36a64f?style=for-the-badge&logo=vrchat&logoColor=white)](vcc://vpm/addRepo?url=YOUR_INDEX_JSON_URL)
+[![Add to VCC](https://img.shields.io/badge/VCC-Add%20to%20VCC-36a64f?style=for-the-badge&logo=vrchat&logoColor=white)](vcc://vpm/addRepo?url=https://UpInPixels.github.io/UpInPixels-Utilities/index.json)
 
 or
 
